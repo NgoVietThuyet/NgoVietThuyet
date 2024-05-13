@@ -3,6 +3,7 @@
     SNAKE GAME
 - Họ tên: Ngọ Viết Thuyết 
 - Mã sinh viên: 23021730
+  
   MỤC LỤC
   
 I. Hướng dẫn và cài đặt game.
