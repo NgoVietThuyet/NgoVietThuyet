@@ -22,15 +22,15 @@ II. Mô tả trò chơi.
    + Khi con rắn cắn vào thân của mình thì game sẽ kết thúc.
      
 III. Các kĩ thuật được sử dụng.
-- Sử dụng thư viện đồ họa SDL.
+- Sử dụng thư viện đồ họa SDL. 
 - Lập trình hướng đối tượng (class).
 - Con trỏ, cấp phát động.
 - Dùng vector để xây dựng các đốt rắn.
   
-IV. Hỗ trợ.
+IV. Tài liệu.
 - Dùng CHATGPT 3.5 để xem xét cách cài đặt thuật toán trong SDL.
 - Sử dụng photoshop để edit ảnh.
-- Xem tài liệu tham khảo tại đây https://codelearn.io/sharing/lap-trinh-game-voi-sdl
+- Xem tài liệu tham khảo tại đây https://codelearn.io/sharing/lap-trinh-game-voi-sdl , https://www.iostream.co/article/xu-ly-su-kien-trong-sdl-dQnHl1
   
 V. Kết luận và tự nhận xét.
 - Đây là sản phầm game đầu tay nên còn nhiều thiếu xót, game cần được cải tiến và nâng cấp một số chức năng:
